@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
     s.name              = 'kotlinUM'
     s.version           = '0.0.2'
     s.summary           = 'Ill be your wingman anytime.'
-    s.homepage          = 'http://moovel.com/'
+    s.homepage          = 'https://github.com/mitdre/'
 
     s.author            = { 'mdrew' => 'mitch.drew@moovel.com' }
     s.license           = { :type => 'Apache-2.0', :file => 'LICENSE' }
